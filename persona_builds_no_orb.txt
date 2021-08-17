@@ -90,7 +90,7 @@ Non-DLC w/o Omnipotent Orb
         I chose Insta-Heal over Fortify Spirit because I don't like leaving it to chance.
         While Yoshitsune isn't weak to Curse, it's possible to die to Mudo-type insta-kills.
 
-5. Gun Damage - Shiki-Ouji
+5. Gun Damage - Ongyo-Ki
     Trait: Will of the Sword
     1. Riot Gun
     2. Gun Boost
@@ -99,7 +99,7 @@ Non-DLC w/o Omnipotent Orb
     5. Arms Master
     6. Regenerate 2
     7. Regenerate 3
-    8. Drain Nuke
+    8. Drain Phys
 
     Will of the Sword gives 3.0x when under Charge.
         Undying Fury does not work with Gun skills.
@@ -111,8 +111,7 @@ Non-DLC w/o Omnipotent Orb
     Apt Pupil increases critical rate.
         If critical rate is not the job for this Persona, it is possible to switch to Regenerate 1.
         This theoretically makes Riot Gun a free move.
-    Drain Nuke is a defensive skill.
-        Used to cover the Nuke weakness.
+    Drain Phys is a defensive skill.
         Can switch to other defensive skills if another Persona is used.
 
 6. Gun Critical - Arsene
@@ -140,3 +139,114 @@ Non-DLC w/o Omnipotent Orb
     Insta-Heal, Drain Ice, and Drain Bless are defensive skills.
         I chose Insta-Heal over Fortify Spirit because I don't like leaving it to chance.
         Since the role of this Persona is to hit critical attacks against Lavenza, it is possible to switch the Drain skills for Gun Boost and Gun Amp.
+
+7. Fire - Zaou-Gongen [Null Bless/Curse]
+    Trait: Mighty Gaze
+    1. Blazing Hell
+    2. Fire Boost
+    3. Fire Amp
+    4. Magic Ability
+    5. Spell Master
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Elec
+
+8. Ice - Sandalphon [Repel Bless, Null Curse]
+    Trait: Mighty Gaze
+    1. Ice Age
+    2. Ice Boost
+    3. Ice Amp
+    4. Magic Ability
+    5. Spell Master
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+9. Elec - Odin [Repel Bless/Curse]
+    Trait: Mighty Gaze
+    1. Wild Thunder
+    2. Elec Boost
+    3. Elec Amp
+    4. Magic Ability
+    5. Spell Master
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+10. Wind - Vishnu [Null Bless/Curse]
+    Trait: Mighty Gaze
+    1. Vacuum Wave
+    2. Wind Boost
+    3. Wind Amp
+    4. Magic Ability
+    5. Spell Master
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+11. Psy - Shiki-Ouji [Null Phys/Gun/Bless/Curse]
+    Trait: Mighty Gaze
+    1. Psycho Blast
+    2. Psy Boost
+    3. Psy Amp
+    4. Magic Ability
+    5. Spell Master
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Nuke
+
+12. Nuke - Girimehkala [Repel Phys/Gun, Null Curse]
+    Trait: Mighty Gaze
+    1. Cosmic Flare
+    2. Nuke Boost
+    3. Nuke Amp
+    4. Magic Ability
+    5. Spell Master
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Bless
+
+13. Bless - Vohu Manah [Drain Bless, Null Curse]
+    Trait: Mighty Gaze
+    1. Makaougaon
+    2. Bless Boost
+    3. Bless Amp
+    4. Magic Ability
+    5. Spell Master
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+14. Curse - Abaddon [Drain Phys/Gun/Curse]
+    Trait: Mighty Gaze
+    1. Maeigaon
+    2. Curse Boost
+    3. Curse Amp
+    4. Magic Ability
+    5. Spell Master
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Bless
+
+Elemental Write-Up
+    All Personas were chosen for their resistance and I used a calculator to check their inheritances.
+        Best Personas would have Null Phys, Gun, Bless, AND Curse with 1 skill, but have 1 weakness at most.
+            Personas that fulfill this requirement:
+                Abaddon [Drain Phys/Gun/Curse, no weakness] -> Curse
+                Shiki-Ouji [Null Phys/Gun/Bless/Curse, Nuke weakness] -> Psy
+                Girimehkala [Repel Phys/Gun, Null Curse, Bless weakness] -> Nuke
+                Lucifer [Drain Curse, Null Phys/Gun, Bless weakness] -> MT-Almighty
+        Priority:
+            Innate Null Bless AND Null Curse, or higher levels.
+            Innate Null Phys OR Null Gun, or higher levels.
+            One weakness.
+    All Elemental builds follow the same template:
+        Trait is Mighty Gaze.
+            Triggered by Multi-Targetting attack.
+            If Single-Target is wanted, switch to Intense Focus.
+        Severe MT-Elemental
+            Can switch to ST-Elemental, but the Trait must change.
+        Elemental Boost, Elemental Amp, and Magic Ability for more damage.
+        Spell Master to deal with attack costs.
+        Insta-Heal, Firm Stance, and Drain skills are defensive skills.
+            Drain skills are chosen to nullify Bless and Curse, then Phys, even if it has innate Resist Bless/Curse/Phys.
