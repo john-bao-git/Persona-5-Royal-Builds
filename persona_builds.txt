@@ -1,6 +1,6 @@
 Non-DLC w/o Omnipotent Orb
 
-1. Mob Clearer w/ Almighty to All - Lucifer
+1. Multi-Target Almighty - Lucifer
     Trait: Mighty Gaze
     1. Morning Star
     2. Almighty Boost
@@ -15,4 +15,51 @@ Non-DLC w/o Omnipotent Orb
     Morning Star is one of the strongest Almighty attacks that targets all enemies.
     Almighty Boost, Almighty Amp, and Magic Ability are standard damage modifiers for damage-dealing Personas.
     Victory Cry since it's expected to one-shot all enemies, so the turn ends on Lucifer.
-    Insta-Heal, Firm Stance, and Drain Bless are defensive skills. Howevew, for this specific role, they are open to anything else since Lucifer is only used for fighting mob enemies, not bosses.
+    Insta-Heal, Firm Stance, and Drain Bless are defensive skills. 
+        However, for this specific role, they are open to anything else since Lucifer is only used for fighting mob enemies, not bosses.
+
+2. Single-Target Almighty - Satanael
+    Trait: Intense Focus
+    1. Black Viper
+    2. Almighty Boost
+    3. Almighty Amp
+    4. Magic Ability
+    5. Tyrant's Mind
+    6. Spell Master
+    7. Insta-Heal
+    8. Firm Stance
+
+    Intense Focus is used since Black Viper targets one enemy.
+        Pagan Allure is capped, so Intense Focus is chosen over it.
+    Black Viper is the strongest Almighty attack that targets one enemy.
+    Almighty Boost, Almighty Amp, and Magic Ability are standard damage modifiers for damage-dealing Personas.
+    Tyrant's Mind is Satanael's unique skill, giving him 1.25x damage that stacks and is not capped.
+    Spell Master is chosen because this build is mostly used against bosses, who are usually alone.
+    Insta-Heal and Firm Stance are defensive skills.
+        Compared to Lucifer's build, this is not open to change.
+        Boss encounters have ailments and large damage.
+        I chose Firm Stance over Ali Dance because I don't like leaving it to chance.
+        I chose Insta-Heal over Fortify Spirit because I don't like leaving it to chance.
+
+3. Ailments - Alilat
+    Trait: Gloomy Child
+    1. Wage War
+    2. Lullaby
+    3. Ailment Boost
+    4. Ambient Aid
+    5. Insta-Heal
+    6. Firm Stance
+    7. Drain Fire
+    8. Drain Curse
+
+    Gloomy Child triggers Ambient Aid.
+    Rage lowers defense while Sleep lets any attack trigger a Technical.
+    Ailment Boost and Ambient Aid boosts all hit rates for ailments.
+        Base hit rate for medium-chance is 70%.
+        Ailment Boost is a flat 1.25x.
+        Ambient Aid, under weathe conditions, is a flat 1.3x.
+        Total hit rate is 114%, rounded down to 100%.
+        There is no need for the ailment-specific boosts.
+    Insta-Heal, Firm Stance, Drain Fire, and Drain Curse are defensive skills.
+        I chose Firm Stance over Ali Dance because I don't like leaving it to chance.
+        I chose Insta-Heal over Fortify Spirit because I don't like leaving it to chance.
