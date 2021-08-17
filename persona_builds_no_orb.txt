@@ -75,4 +75,68 @@ Non-DLC w/o Omnipotent Orb
     7. Firm Stance
     8. Drain Curse
 
-    
+    Undying Fury gives 1.3x to all Physical skills.
+        Chosen over Will of the Sword because it will deal more damage, even under Charge.
+            1.3 x 2.5 = 3.25 (Undying Fury)
+            1.0 x 3.0 = 3.0 (Will of the Sword)
+    Regenerate 2, Regenerate 3, and Arms Master deal with Hassou Tobi's 25% HP cost.
+        Regenerate 2:   -4% HP
+        Regenerate 3:   -6% HP
+        Arms Master:    -12.5% HP
+        Total Cost:     25 - 12.5 - 6 - 4 = 2.5%, rounded up to 3%.
+    Apt Pupil raises critical rate.
+    Insta-Heal, Firm Stance, and Drain Curse are defensive skills.
+        I chose Firm Stance over Ali Dance because I don't like leaving it to chance.
+        I chose Insta-Heal over Fortify Spirit because I don't like leaving it to chance.
+        While Yoshitsune isn't weak to Curse, it's possible to die to Mudo-type insta-kills.
+
+5. Gun Damage - Shiki-Ouji
+    Trait: Will of the Sword
+    1. Riot Gun
+    2. Gun Boost
+    3. Gun Amp
+    4. Apt Pupil
+    5. Arms Master
+    6. Regenerate 2
+    7. Regenerate 3
+    8. Drain Nuke
+
+    Will of the Sword gives 3.0x when under Charge.
+        Undying Fury does not work with Gun skills.
+    Regenerate 2, Regenerate 3, and Arms Master deal with Riot Gun's 24% HP cost.
+        Regenerate 2:   -4% HP
+        Regenerate 3:   -6% HP
+        Arms Master:    -12% HP
+        Total Cost:     24 - 12 - 6 - 4 = 2%.
+    Apt Pupil increases critical rate.
+        If critical rate is not the job for this Persona, it is possible to switch to Regenerate 1.
+        This theoretically makes Riot Gun a free move.
+    Drain Nuke is a defensive skill.
+        Used to cover the Nuke weakness.
+        Can switch to other defensive skills if another Persona is used.
+
+6. Gun Critical - Arsene
+    Trait: Vitality of the Tree
+    1. One-Shot Kill
+    2. Apt Pupil
+    3. Trigger Happy
+    4. Adverse Resolve
+    5. Arms Master
+    6. Insta-Heal
+    7. Drain Ice
+    8. Drain Bless
+
+    Mainly used for the fight against Lavenza, where we want to hit her with a critical attack.
+        Everything is made to increase the critical rate, even if there is a ceiling of 60%.
+        This is in case if Lavenza has a higher luck stat than 99.
+    Vitality of the Tree triggers Adverse Resolve.
+    One-Shot Kill has the highest critical rate at 30% where Arsene has the same luck as the enemy.
+    Apt Pupil, Trigger Happy, and Adverse Resolve increases critical rate.
+        Apt Pupil increases all critical rates.
+        Trigger Happy increases the critical rate of Gun skills.
+        Adverse Resolve increases all critical rates when ambushed.
+            Works under Vitality of the Tree.
+    Arms Master deals with One-Shot Kill's 17% HP cost.
+    Insta-Heal, Drain Ice, and Drain Bless are defensive skills.
+        I chose Insta-Heal over Fortify Spirit because I don't like leaving it to chance.
+        Since the role of this Persona is to hit critical attacks against Lavenza, it is possible to switch the Drain skills for Gun Boost and Gun Amp.
