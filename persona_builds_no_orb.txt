@@ -63,3 +63,16 @@ Non-DLC w/o Omnipotent Orb
     Insta-Heal, Firm Stance, Drain Fire, and Drain Curse are defensive skills.
         I chose Firm Stance over Ali Dance because I don't like leaving it to chance.
         I chose Insta-Heal over Fortify Spirit because I don't like leaving it to chance.
+
+4. Physical - Yoshitsune
+    Trait: Undying Fury
+    1. Hassou Tobi
+    2. Regenerate 2
+    3. Regenerate 3
+    4. Arms Master
+    5. Apt Pupil
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Curse
+
+    
