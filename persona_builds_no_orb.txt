@@ -250,3 +250,64 @@ Elemental Write-Up
         Spell Master to deal with attack costs.
         Insta-Heal, Firm Stance, and Drain skills are defensive skills.
             Drain skills are chosen to nullify Bless and Curse, then Phys, even if it has innate Resist Bless/Curse/Phys.
+
+15. Buffer/Debuffer - Trumpeter
+    Trait: Vitality of the Tree
+    1. Thermopylae
+    2. Debilitate
+    3. Dekaja
+    4. Dekunda
+    5. Spell Master
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+    Vitality of the Tree is chosen over Wealth of Lotus because I want to buff all stats immediately
+        Triggers Thermopylae.
+    Thermopylae over the Ma-kaja skills.
+        I want to buff all stats now.
+        More space for other skills.
+    Debilitate to debuff enemy.
+        Can be switched to Revolution for buffing.
+    Dekaja and Dekunda to take away buffs on enemies and debuffs on the team.
+    Insta-Heal, Firm Stance, and Drain skills are defensive skills.
+
+16. Starter - Michael
+    Trait: Will of the Sword
+    1. Charge
+    2. Concentrate
+    3. Auto-Mataru
+    4. Auto-Maraku
+    5. Auto-Masuku
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+    Will of the Sword is bugged to give an Auto-Concentrate.
+    Charge and Concentrate for 2.5x damage for your damage-dealing Persona.
+    Auto-Ma skills since this Persona will always start first.
+    Insta-Heal, Firm Stance, and Drain skills are defensive skills.
+
+17. Healer - Maria
+    Trait: Demon's Bite
+    1. Holy Benevolence
+    2. Salvation
+    3. Holy Embrace
+    4. Holy Whisper
+    5. Spell Master
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Fire
+
+    Trait doubles healing to the player.
+        Works with Holy Embrace and Holy Whisper.
+    Holy Benevolence is one of Maria's unique skills.
+        Best revival skill in the game.
+    Salvation is the best healing skill in the game.
+    Holy Embrace and Holy Whisper are the last of Maria's unique skills.
+        Holy Embrace gives 25% HP per turn.
+        Holy Whisper gives 15% HP and 15 SP per turn.
+        With Demon's Bite, the player heals 80% per turn AND 15 SP.
+        Regenerate 2 and Regenerate 3 can be used for 100% HP heals per turn, but it takes too much space for only 20% HP.
+    Spell Master helps with Salvation's cost.
+    Insta-Heal, Firm Stance, and Drain skills are defensive skills.
