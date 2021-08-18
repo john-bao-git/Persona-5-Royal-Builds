@@ -296,3 +296,29 @@ Elemental Write-Up
     8. Drain Phys
 
     Replace Drain Fire with Drain Phys.
+
+18. Hama Insta-Kill - Daisoujou
+    Trait: Omen
+    1. Samsara
+    2. Hama Boost
+    3. Spell Master
+    4. Victory Cry
+    5. Fortify Spirit
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+    Replace Drain Curse with Drain Phys.
+
+19. Mudo Insta-Kill - Alice
+    Trait: Omen
+    1. Die for Me!
+    2. Mudo Boost
+    3. Spell Master
+    4. Victory Cry
+    5. Fortify Spirit
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+    Replace Drain Bless with Drain Phys.

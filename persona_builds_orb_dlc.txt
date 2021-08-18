@@ -1,0 +1,125 @@
+Considerations:
+    All builds from persona_builds_orbs.txt are used, unless stated otherwise.
+    Assumes Omnipotent Orb.
+
+Roles
+    1.  Almighty            - Izanagi-no-Okami (new)
+    3.  Ailments            - Raoul (new)
+    7.  Fire                - Asterius (new)
+    13. Bless               - Kaguya (new)
+    14. Curse               - Tsukuyomi (new)
+    15. Buffer/Debuffer     - Orpheus F (new)
+
+1. Almighty - Izanagi-no-Okami
+    Trait: Country Maker
+    1. Myriad Truths
+    2. Almighty Boost
+    3. Almighty Amp
+    4. Magic Ability
+    5. Victory Cry
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+    Victory Cry can be Spell Master.
+        Each skill has different use cases.
+        Victory Cry for mob battles, Spell Master for boss encounters.
+    Firm Stance is a flex skill because of how Country Maker works.
+        However, it if funny to see the Reaper deal less than 100 damage to the player.
+
+3. Ailments v1 - Raoul
+    Trait: Gloomy Child
+    1. Phantom Show
+    2. Wage War
+    3. Ailment Boost
+    4. Ambient Aid
+    5. Spell Master (flex)
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+3. Ailments v2 - Raoul
+    Trait: Gloomy Child
+    1. Phantom Show
+    2. Ailment Boost
+    3. Ambient Aid
+    4. Spell Master (flex)
+    5. Fortify Spirit
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+3. Ailments v3 - Raoul
+    Trait: Immunity
+    1. Phantom Show
+    2. Sleep Boost
+    3. Ailment Boost
+    4. Spell Master (flex)
+    5. Invigorate 3 (flex)
+    6. Firm Stance
+    7. Enduring Soul (flex)
+    8. Drain Phys  
+    
+    For all of them, Spell Master is a flex because of how cheap Phantom Show is.
+    V1 contains Sleep + Rage for more variations in ailments.
+    V2 forgoes Rage for to go over 100% ailment hit rate.
+        There is evidence that a high-chance ailment can get to 100% through just Ailment Boost.
+        However, it assumes the enemy has the same luck as the player.
+        This build assumes that the enemy has a much higher luck stat than the player.
+    V3 aims for just 100% and uses the empty skills and Trait for defensive skills.
+        Trait allows immunity to all ailments.
+        In the off-chance that the enemy has higher luck, Sleep Boost should increase the ailment hit rate.
+        Invigorate 3 and Enduring Soul are flex skills.
+
+7. Fire - Asterius
+    Trait: Mighty Gaze
+    1. Titanomachia
+    2. Fire Boost
+    3. Fire Amp
+    4. Magic Ability
+    5. Spell Master
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+    No change in skillset.
+
+13. Bless - Kaguya
+    Trait: Mighty Gaze
+    1. Shining Arrows
+    2. Bless Boost
+    3. Bless Amp
+    4. Magic Ability
+    5. Spell Master
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+    No change in skills.
+
+14. Curse - Tsukuyomi
+    Trait: Mighty Gaze
+    1. Abyssal Wings
+    2. Curse Boost
+    3. Curse Amp
+    4. Magic Ability
+    5. Spell Master
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+    Replace Fortify Spirit with Drain Phys
+
+15. Buffer/Debuffer - Orpheus F
+    Trait: Wealth of Lotus
+    1. Neo Cadenza
+    2. Debilitate
+    3. Dekaja
+    4. Dekunda
+    5. Spell Master
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Phys
+
+    Neo Cadenza works with Wealth of Lotus
+    Replace Fortify Spirit with Drain Phys

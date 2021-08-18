@@ -314,3 +314,31 @@ Elemental Write-Up
         Regenerate 2 and Regenerate 3 can be used for 100% HP heals per turn, but it takes too much space for only 20% HP.
     Spell Master helps with Salvation's cost.
     Insta-Heal, Firm Stance, and Drain skills are defensive skills.
+
+18. Hama Insta-Kill - Daisoujou
+    Trait: Omen
+    1. Samsara
+    2. Hama Boost
+    3. Spell Master
+    4. Victory Cry
+    5. Fortify Spirit
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Curse
+
+    Omen greatly increases insta-kill hit rates.
+        Chosen over Just Die beacuse Victory cry does the same thing, but better.
+
+19. Mudo Insta-Kill - Alice
+    Trait: Omen
+    1. Die for Me!
+    2. Mudo Boost
+    3. Spell Master
+    4. Victory Cry
+    5. Fortify Spirit
+    6. Insta-Heal
+    7. Firm Stance
+    8. Drain Bless
+
+    Omen greatly increases insta-kill hit rates.
+        Chosen over Just Die beacuse Victory cry does the same thing, but better.
