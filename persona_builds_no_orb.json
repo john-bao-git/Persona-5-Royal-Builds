@@ -1,0 +1,26 @@
+{
+    "MT-Almighty": [
+        {
+            "persona":  "Lucifer",
+            "trait":    "Mighty Gaze",
+            "skills":   [
+                "Morning Star",
+               "Almighty Boost",
+               "Almighty Amp",
+               "Magic Ability",
+               "Victory Cry",
+               "Insta-Heal",
+               "Firm Stance",
+               "Drain Bless"
+            ],
+            "reasons":  [
+                "Mighty Gaze is used since Morning Star targets all enemies.",
+                "Morning Star is one of the strongest Almighty attacks that targets all enemies.",
+                "Almighty Boost, Almighty Amp, and Magic Ability are standard damage modifiers for damage-dealing Personas.",
+                "Victory Cry since it's expected to one-shot all enemies, so the turn ends on Lucifer.",
+                "Insta-Heal, Firm Stance, and Drain Bless are defensive skills. ",
+                    "However, for this specific role, they are open to anything else since Lucifer is only used for fighting mob enemies, not bosses."
+            ]
+        }
+    ]
+}
