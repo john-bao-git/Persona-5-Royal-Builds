@@ -5,7 +5,7 @@ Personal practice site to use VueJs.
 
 Separate into 3 lists: non-DLC, Legacy DLC, paid DLC.
 
-1. Make Persona builds.
+1. Make Persona builds. (Done 8/17)
 
 2. Turn Persona builds into .json data. The files are based on the lists.
     a. Should I include post-Lavenza for Omnipotent Orb?
