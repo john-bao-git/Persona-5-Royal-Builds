@@ -83,7 +83,7 @@ Roles
     7. Insta-Heal
     8. Firm Stance
     
-    With the Omnipotent Orb, Lucifer no longer has a weakness.
+    With the Omnipotent Orb, Alilat no longer has a weakness.
     Replace Drain skills with Fortify Spirit and a flex skill.
         Fortify Spirit gives a 30% evade from ailments if facing an enemy with the same luck.
             In the best scenearios, it is better to avoid than actually get hit when possible.
@@ -110,27 +110,16 @@ Roles
     3. Gun Amp
     4. Apt Pupil
     5. Arms Master
-    6. Insta-Heal
-    7. Firm Stance
-    8. Drain Phys
+    6. Fortify Spirit
+    7. Insta-Heal
+    8. Firm Stance
 
-    Will of the Sword gives 3.0x when under Charge.
-        Undying Fury does not work with Gun skills.
-    Arms Master deal with Riot Gun's 24% HP cost.
-    Apt Pupil increases critical rate.
-        This theoretically makes Riot Gun a free move.
-    Drain Phys is a defensive skill.
-        Can switch to other defensive skills if another Persona is used.
-    Regenerate skills
-        Since the role is for damage, it is possible to change some skills for all the Regenerate skills,
-        Possible to make Riot Gun a free attack.
-            Arms Master:  -12%
-            Regenerate 1: -2%
-            Regenerate 2: -4%
-            Regenerate 3: -6%
-            Total:        -24% 
+    With the Omnipotent Orb, Arahabaki no longer has a weakness.
+    Replace Drain skills with Fortify Spirit.
+        Fortify Spirit gives a 30% evade from ailments if facing an enemy with the same luck.
+            In the best scenearios, it is better to avoid than actually get hit when possible.
 
-6. Gun Critical - Arsene
+6. Gun Critical - Kin-Ki
     Trait: Vitality of the Tree
     1. One-Shot Kill
     2. Apt Pupil
@@ -138,25 +127,12 @@ Roles
     4. Adverse Resolve
     5. Arms Master
     6. Insta-Heal
-    7. Drain Ice
-    8. Drain Bless
+    7. Firm Stance
+    8. Drain Phys
 
-    Mainly used for the fight against Lavenza, where we want to hit her with a critical attack.
-        Everything is made to increase the critical rate, even if there is a ceiling of 60%.
-        This is in case if Lavenza has a higher luck stat than 99.
-    Vitality of the Tree triggers Adverse Resolve.
-    One-Shot Kill has the highest critical rate at 30% where Arsene has the same luck as the enemy.
-    Apt Pupil, Trigger Happy, and Adverse Resolve increases critical rate.
-        Apt Pupil increases all critical rates.
-        Trigger Happy increases the critical rate of Gun skills.
-        Adverse Resolve increases all critical rates when ambushed.
-            Works under Vitality of the Tree.
-    Arms Master deals with One-Shot Kill's 17% HP cost.
-    Insta-Heal, Drain Ice, and Drain Bless are defensive skills.
-        I chose Insta-Heal over Fortify Spirit because I don't like leaving it to chance.
-        Since the role of this Persona is to hit critical attacks against Lavenza, it is possible to switch the Drain skills for Gun Boost and Gun Amp.
+    Replace Drain skills with Firm Stance and Drain Phys.
 
-7. Fire - Zaou-Gongen [Null Bless/Curse]
+7. Fire - Kali
     Trait: Mighty Gaze
     1. Blazing Hell
     2. Fire Boost
@@ -165,9 +141,11 @@ Roles
     5. Spell Master
     6. Insta-Heal
     7. Firm Stance
-    8. Drain Elec
+    8. Drain Phys
 
-8. Ice - Sandalphon [Repel Bless, Null Curse]
+    Replace Drain Elec with Drain Phys.
+
+8. Ice - Yaksini
     Trait: Mighty Gaze
     1. Ice Age
     2. Ice Boost
@@ -178,7 +156,9 @@ Roles
     7. Firm Stance
     8. Drain Phys
 
-9. Elec - Odin [Repel Bless/Curse]
+    No change in skills.
+
+9. Elec - Mara
     Trait: Mighty Gaze
     1. Wild Thunder
     2. Elec Boost
@@ -189,7 +169,9 @@ Roles
     7. Firm Stance
     8. Drain Phys
 
-10. Wind - Vishnu [Null Bless/Curse]
+    No change in skills.
+
+10. Wind - Kaiwan
     Trait: Mighty Gaze
     1. Vacuum Wave
     2. Wind Boost
@@ -200,29 +182,41 @@ Roles
     7. Firm Stance
     8. Drain Phys
 
-11. Psy - Shiki-Ouji [Null Phys/Gun/Bless/Curse]
+    No change in skills.
+
+11. Psy - Shiki-Ouji
     Trait: Mighty Gaze
     1. Psycho Blast
     2. Psy Boost
     3. Psy Amp
     4. Magic Ability
     5. Spell Master
-    6. Insta-Heal
-    7. Firm Stance
-    8. Drain Nuke
+    6. Fortify Spirit
+    7. Insta-Heal
+    8. Firm Stance
 
-12. Nuke - Girimehkala [Repel Phys/Gun, Null Curse]
+    With the Omnipotent Orb, Shiki-Ouji no longer has a weakness.
+    Replace Drain skills with Fortify Spirit.
+        Fortify Spirit gives a 30% evade from ailments if facing an enemy with the same luck.
+            In the best scenearios, it is better to avoid than actually get hit when possible.
+
+12. Nuke - Girimehkala 
     Trait: Mighty Gaze
     1. Cosmic Flare
     2. Nuke Boost
     3. Nuke Amp
     4. Magic Ability
     5. Spell Master
-    6. Insta-Heal
-    7. Firm Stance
-    8. Drain Bless
+    6. Fortify Spirit
+    7. Insta-Heal
+    8. Firm Stance
 
-13. Bless - Vohu Manah [Drain Bless, Null Curse]
+    With the Omnipotent Orb, Girimehkala no longer has a weakness.
+    Replace Drain skills with Fortify Spirit.
+        Fortify Spirit gives a 30% evade from ailments if facing an enemy with the same luck.
+            In the best scenearios, it is better to avoid than actually get hit when possible.
+
+13. Bless - Inugami
     Trait: Mighty Gaze
     1. Makaougaon
     2. Bless Boost
@@ -233,6 +227,8 @@ Roles
     7. Firm Stance
     8. Drain Phys
 
+    No change in skills.
+
 14. Curse - Abaddon [Drain Phys/Gun/Curse]
     Trait: Mighty Gaze
     1. Maeigaon
@@ -240,69 +236,53 @@ Roles
     3. Curse Amp
     4. Magic Ability
     5. Spell Master
-    6. Insta-Heal
-    7. Firm Stance
-    8. Drain Bless
+    6. Fortify Spirit
+    7. Insta-Heal
+    8. Firm Stance
+
+    With the Omnipotent Orb, Abaddon no longer has to worry about Bless insta-kills.
+    Replace Drain skills with Fortify Spirit.
+        Fortify Spirit gives a 30% evade from ailments if facing an enemy with the same luck.
+            In the best scenearios, it is better to avoid than actually get hit when possible.
 
 Elemental Write-Up
-    All Personas were chosen for their resistance and I used a calculator to check their inheritances.
-        Best Personas would have Null Phys, Gun, Bless, AND Curse with 1 skill, but have 1 weakness at most.
-            Personas that fulfill this requirement:
-                Abaddon [Drain Phys/Gun/Curse, no weakness] -> Curse
-                Shiki-Ouji [Null Phys/Gun/Bless/Curse, Nuke weakness] -> Psy
-                Girimehkala [Repel Phys/Gun, Null Curse, Bless weakness] -> Nuke
-                Lucifer [Drain Curse, Null Phys/Gun, Bless weakness] -> MT-Almighty
-        Priority:
-            Innate Null Bless AND Null Curse, or higher levels.
-            Innate Null Phys OR Null Gun, or higher levels.
-            One weakness.
-    All Elemental builds follow the same template:
-        Trait is Mighty Gaze.
-            Triggered by Multi-Targetting attack.
-            If Single-Target is wanted, switch to Intense Focus.
-        Severe MT-Elemental
-            Can switch to ST-Elemental, but the Trait must change.
-        Elemental Boost, Elemental Amp, and Magic Ability for more damage.
-        Spell Master to deal with attack costs.
-        Insta-Heal, Firm Stance, and Drain skills are defensive skills.
-            Drain skills are chosen to nullify Bless and Curse, then Phys, even if it has innate Resist Bless/Curse/Phys.
+    Check Considerations.
+    With Omnipotent Orb, there is no need to worry over weaknesses.
+        All Personas chosen have innate Null Gun or higher.
+        If the Persona doesn't have an innate Null Phys or higher, give it Drain Phys.
+        Otherwise, give it Fortify Spirit.
 
-15. Buffer/Debuffer - Trumpeter
+15. Buffer/Debuffer - Fafnir
     Trait: Vitality of the Tree
     1. Thermopylae
     2. Debilitate
     3. Dekaja
     4. Dekunda
     5. Spell Master
-    6. Insta-Heal
-    7. Firm Stance
-    8. Drain Phys
+    6. Fortify Spirit
+    7. Insta-Heal
+    8. Firm Stance
 
-    Vitality of the Tree is chosen over Wealth of Lotus because I want to buff all stats immediately
-        Triggers Thermopylae.
-    Thermopylae over the Ma-kaja skills.
-        I want to buff all stats now.
-        More space for other skills.
-    Debilitate to debuff enemy.
-        Can be switched to Revolution for buffing.
-    Dekaja and Dekunda to take away buffs on enemies and debuffs on the team.
-    Insta-Heal, Firm Stance, and Drain skills are defensive skills.
+    With the Omnipotent Orb, Fafnir no longer has to worry about Bless insta-kills.
+    Replace Drain skills with Fortify Spirit.
+        Fortify Spirit gives a 30% evade from ailments if facing an enemy with the same luck.
+            In the best scenearios, it is better to avoid than actually get hit when possible.
 
-16. Starter - Michael
+16. Starter - Rangda
     Trait: Will of the Sword
     1. Charge
     2. Concentrate
     3. Auto-Mataru
     4. Auto-Maraku
     5. Auto-Masuku
-    6. Insta-Heal
-    7. Firm Stance
-    8. Drain Phys
+    6. Fortify Spirit
+    7. Insta-Heal
+    8. Firm Stance
 
-    Will of the Sword is bugged to give an Auto-Concentrate.
-    Charge and Concentrate for 2.5x damage for your damage-dealing Persona.
-    Auto-Ma skills since this Persona will always start first.
-    Insta-Heal, Firm Stance, and Drain skills are defensive skills.
+    With the Omnipotent Orb, Rangda no longer has a weakness.
+    Replace Drain skills with Fortify Spirit.
+        Fortify Spirit gives a 30% evade from ailments if facing an enemy with the same luck.
+            In the best scenearios, it is better to avoid than actually get hit when possible.
 
 17. Healer - Maria
     Trait: Demon's Bite
@@ -313,17 +293,6 @@ Elemental Write-Up
     5. Spell Master
     6. Insta-Heal
     7. Firm Stance
-    8. Drain Fire
+    8. Drain Phys
 
-    Trait doubles healing to the player.
-        Works with Holy Embrace and Holy Whisper.
-    Holy Benevolence is one of Maria's unique skills.
-        Best revival skill in the game.
-    Salvation is the best healing skill in the game.
-    Holy Embrace and Holy Whisper are the last of Maria's unique skills.
-        Holy Embrace gives 25% HP per turn.
-        Holy Whisper gives 15% HP and 15 SP per turn.
-        With Demon's Bite, the player heals 80% per turn AND 15 SP.
-        Regenerate 2 and Regenerate 3 can be used for 100% HP heals per turn, but it takes too much space for only 20% HP.
-    Spell Master helps with Salvation's cost.
-    Insta-Heal, Firm Stance, and Drain skills are defensive skills.
+    Replace Drain Fire with Drain Phys.
