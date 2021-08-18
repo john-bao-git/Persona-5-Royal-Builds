@@ -97,22 +97,25 @@ Non-DLC w/o Omnipotent Orb
     3. Gun Amp
     4. Apt Pupil
     5. Arms Master
-    6. Regenerate 2
-    7. Regenerate 3
+    6. Insta-Heal
+    7. Firm Stance
     8. Drain Phys
 
     Will of the Sword gives 3.0x when under Charge.
         Undying Fury does not work with Gun skills.
-    Regenerate 2, Regenerate 3, and Arms Master deal with Riot Gun's 24% HP cost.
-        Regenerate 2:   -4% HP
-        Regenerate 3:   -6% HP
-        Arms Master:    -12% HP
-        Total Cost:     24 - 12 - 6 - 4 = 2%.
+    Arms Master deal with Riot Gun's 24% HP cost.
     Apt Pupil increases critical rate.
-        If critical rate is not the job for this Persona, it is possible to switch to Regenerate 1.
         This theoretically makes Riot Gun a free move.
     Drain Phys is a defensive skill.
         Can switch to other defensive skills if another Persona is used.
+    Regenerate skills
+        Since the role is for damage, it is possible to change some skills for all the Regenerate skills,
+        Possible to make Riot Gun a free attack.
+            Arms Master:  -12%
+            Regenerate 1: -2%
+            Regenerate 2: -4%
+            Regenerate 3: -6%
+            Total:        -24%   
 
 6. Gun Critical - Arsene
     Trait: Vitality of the Tree

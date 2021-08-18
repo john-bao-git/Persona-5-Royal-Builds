@@ -22,6 +22,7 @@ Considerations
             16. Inugami     - Bless
             17. Kaiwan      - Wind
             18. Yaksini     - Ice
+    Readers are expected to already know the No_Orb page?
 
 Roles
     1.  MT-Almighty         - Lucifer
@@ -49,16 +50,14 @@ Roles
     3. Almighty Amp
     4. Magic Ability
     5. Victory Cry
-    6. Insta-Heal
-    7. Firm Stance
-    8. Drain Bless
-
-    Mighty Gaze is used since Morning Star targets all enemies.
-    Morning Star is one of the strongest Almighty attacks that targets all enemies.
-    Almighty Boost, Almighty Amp, and Magic Ability are standard damage modifiers for damage-dealing Personas.
-    Victory Cry since it's expected to one-shot all enemies, so the turn ends on Lucifer.
-    Insta-Heal, Firm Stance, and Drain Bless are defensive skills. 
-        However, for this specific role, they are open to anything else since Lucifer is only used for fighting mob enemies, not bosses.
+    6. Fortify Spirit
+    7. Insta-Heal
+    8. Firm Stance
+    
+    With the Omnipotent Orb, Lucifer no longer has a weakness.
+    Replace Drain Bless with Fortify Spirit.
+        Fortify Spirit gives a 30% evade from ailments if facing an enemy with the same luck.
+            In the best scenearios, it is better to avoid than actually get hit when possible.
 
 2. Single-Target Almighty - Satanael
     Trait: Intense Focus
@@ -71,17 +70,7 @@ Roles
     7. Insta-Heal
     8. Firm Stance
 
-    Intense Focus is used since Black Viper targets one enemy.
-        Pagan Allure is capped, so Intense Focus is chosen over it.
-    Black Viper is the strongest Almighty attack that targets one enemy.
-    Almighty Boost, Almighty Amp, and Magic Ability are standard damage modifiers for damage-dealing Personas.
-    Tyrant's Mind is Satanael's unique skill, giving him 1.25x damage that stacks and is not capped.
-    Spell Master is chosen because this build is mostly used against bosses, who are usually alone.
-    Insta-Heal and Firm Stance are defensive skills.
-        Compared to Lucifer's build, this is not open to change.
-        Boss encounters have ailments and large damage.
-        I chose Firm Stance over Ali Dance because I don't like leaving it to chance.
-        I chose Insta-Heal over Fortify Spirit because I don't like leaving it to chance.
+    No change.
 
 3. Ailments - Alilat
     Trait: Gloomy Child
@@ -89,22 +78,17 @@ Roles
     2. Lullaby
     3. Ailment Boost
     4. Ambient Aid
-    5. Insta-Heal
-    6. Firm Stance
-    7. Drain Fire
-    8. Drain Curse
-
-    Gloomy Child triggers Ambient Aid.
-    Rage lowers defense while Sleep lets any attack trigger a Technical.
-    Ailment Boost and Ambient Aid boosts all hit rates for ailments.
-        Base hit rate for medium-chance is 70%.
-        Ailment Boost is a flat 1.25x.
-        Ambient Aid, under weathe conditions, is a flat 1.3x.
-        Total hit rate is 114%, rounded down to 100%.
-        There is no need for the ailment-specific boosts.
-    Insta-Heal, Firm Stance, Drain Fire, and Drain Curse are defensive skills.
-        I chose Firm Stance over Ali Dance because I don't like leaving it to chance.
-        I chose Insta-Heal over Fortify Spirit because I don't like leaving it to chance.
+    5. Spell Master (flex)
+    6. Fortify Spirit
+    7. Insta-Heal
+    8. Firm Stance
+    
+    With the Omnipotent Orb, Lucifer no longer has a weakness.
+    Replace Drain skills with Fortify Spirit and a flex skill.
+        Fortify Spirit gives a 30% evade from ailments if facing an enemy with the same luck.
+            In the best scenearios, it is better to avoid than actually get hit when possible.
+        Flex skill can be anything.
+            I chose Spell Master to help with costs.
 
 4. Physical - Yoshitsune
     Trait: Undying Fury
@@ -117,44 +101,34 @@ Roles
     7. Firm Stance
     8. Drain Curse
 
-    Undying Fury gives 1.3x to all Physical skills.
-        Chosen over Will of the Sword because it will deal more damage, even under Charge.
-            1.3 x 2.5 = 3.25 (Undying Fury)
-            1.0 x 3.0 = 3.0 (Will of the Sword)
-    Regenerate 2, Regenerate 3, and Arms Master deal with Hassou Tobi's 25% HP cost.
-        Regenerate 2:   -4% HP
-        Regenerate 3:   -6% HP
-        Arms Master:    -12.5% HP
-        Total Cost:     25 - 12.5 - 6 - 4 = 2.5%, rounded up to 3%.
-    Apt Pupil raises critical rate.
-    Insta-Heal, Firm Stance, and Drain Curse are defensive skills.
-        I chose Firm Stance over Ali Dance because I don't like leaving it to chance.
-        I chose Insta-Heal over Fortify Spirit because I don't like leaving it to chance.
-        While Yoshitsune isn't weak to Curse, it's possible to die to Mudo-type insta-kills.
+    No change.
 
-5. Gun Damage - Ongyo-Ki
+5. Gun Damage - Arahabaki
     Trait: Will of the Sword
     1. Riot Gun
     2. Gun Boost
     3. Gun Amp
     4. Apt Pupil
     5. Arms Master
-    6. Regenerate 2
-    7. Regenerate 3
+    6. Insta-Heal
+    7. Firm Stance
     8. Drain Phys
 
     Will of the Sword gives 3.0x when under Charge.
         Undying Fury does not work with Gun skills.
-    Regenerate 2, Regenerate 3, and Arms Master deal with Riot Gun's 24% HP cost.
-        Regenerate 2:   -4% HP
-        Regenerate 3:   -6% HP
-        Arms Master:    -12% HP
-        Total Cost:     24 - 12 - 6 - 4 = 2%.
+    Arms Master deal with Riot Gun's 24% HP cost.
     Apt Pupil increases critical rate.
-        If critical rate is not the job for this Persona, it is possible to switch to Regenerate 1.
         This theoretically makes Riot Gun a free move.
     Drain Phys is a defensive skill.
         Can switch to other defensive skills if another Persona is used.
+    Regenerate skills
+        Since the role is for damage, it is possible to change some skills for all the Regenerate skills,
+        Possible to make Riot Gun a free attack.
+            Arms Master:  -12%
+            Regenerate 1: -2%
+            Regenerate 2: -4%
+            Regenerate 3: -6%
+            Total:        -24% 
 
 6. Gun Critical - Arsene
     Trait: Vitality of the Tree
